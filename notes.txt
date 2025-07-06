@@ -1,0 +1,7 @@
+composer create-project laravel/laravel CRUD-APP
+
+cd CRUD-APP
+
+php artisan serve
+
+php artisan make:controller Product controller
